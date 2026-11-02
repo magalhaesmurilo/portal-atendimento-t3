@@ -1,2 +1,2 @@
-Prazo de atendimento: 48 horas.
+Prazo de atendimento: 24 horas.
 Prioridade padrao: normal.
