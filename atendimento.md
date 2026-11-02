@@ -1,2 +1,3 @@
-Prazo de atendimento: 48 horas.
-Prioridade padrao: normal.
+Prazo de atendimento: 24 horas.
+Prioridade padrao: alta.
+Incidentes criticos: prioridade urgente apos triagem.
